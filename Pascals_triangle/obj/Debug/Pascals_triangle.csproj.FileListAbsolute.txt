@@ -1,0 +1,5 @@
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Pascals_triangle\Pascals_triangle\bin\Debug\Pascals_triangle.exe.config
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Pascals_triangle\Pascals_triangle\bin\Debug\Pascals_triangle.exe
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Pascals_triangle\Pascals_triangle\bin\Debug\Pascals_triangle.pdb
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Pascals_triangle\Pascals_triangle\obj\Debug\Pascals_triangle.exe
+C:\Users\Namig\Desktop\Visual_Studio2015\Projects\Pascals_triangle\Pascals_triangle\obj\Debug\Pascals_triangle.pdb
